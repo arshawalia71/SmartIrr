@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartIrr</string>
+    <string name="heading">Smart Water Irrigation</string>
+    <string name="motor_status">Click to turn on the motor</string>
+    <string name="moisture_value">Click Refresh to find the moisture level</string>
+    <string name="turn_on">Turn On</string>
+    <string name="moisture_level"></string>
+</resources>
